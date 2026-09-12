@@ -58,6 +58,14 @@ Landing page desenvolvida para o projeto Your Rytthm, explorando conceitos de de
 
 ---
 
+### Estudos de Python
+
+Repositório com meus estudos e exercícios práticos em Python, desenvolvidos com foco no aprimoramento da lógica de programação e resolução de problemas.
+
+🔗 [Ver repositório]([https://github.com/RuhanAlves/python-estudos](https://github.com/RuhanAlves/python-estudos))
+
+---
+
 ## Certificações
 
 * Google Workspace for Education – Nível Básico
