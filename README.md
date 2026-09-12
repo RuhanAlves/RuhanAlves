@@ -73,14 +73,6 @@ Repositório com meus estudos e exercícios práticos em Python, desenvolvidos c
 
 ---
 
-## Estatísticas do GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RuhanAlves\&show_icons=true\&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RuhanAlves\&layout=compact\&theme=tokyonight)
-
----
-
 ## Objetivo
 
 Desenvolver habilidades em programação e tecnologia, construir projetos práticos e adquirir experiência na área de desenvolvimento de software.
