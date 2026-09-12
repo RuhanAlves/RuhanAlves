@@ -46,15 +46,15 @@ Busco evoluir continuamente na área de tecnologia, transformando meus estudos e
 
 ### [Tabela Periódica](https://github.com/RuhanAlves/Tabela-Periodica)
 
-Projeto desenvolvido com **HTML e CSS** que organiza e apresenta os elementos da **Tabela Periódica** em uma interface simples e visual.
+Projeto desenvolvido com **HTML e CSS** que organiza e apresenta os elementos da Tabela Periódica em uma interface simples e visual.
 
 ### [Your Rytthm](https://github.com/RuhanAlves/Your-Rytthem)
 
-Site de roupas inspiradas em artistas de música Indie e R&B, transmitindo os seus sentimentos as roupas.
+Site de roupas inspirado em artistas de música Indie e R&B, traduzindo sentimentos e referências musicais em design e moda.
 
 ### [Landing Page - Your Rytthm](https://github.com/RuhanAlves/Landing-Page---Your-Rytthm)
 
-Landing Page criada para o meu site Your Rytthm, com alguns aspectos de Javascript.
+Landing page desenvolvida para o projeto Your Rytthm, explorando conceitos de desenvolvimento web e interações com JavaScript.
 
 ---
 
