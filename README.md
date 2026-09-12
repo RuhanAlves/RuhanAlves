@@ -9,11 +9,13 @@ Técnico em Informática em formação no Colégio COTEMIG
 
 Sou estudante do **2º ano do curso Técnico em Informática no COTEMIG**.
 
-Tenho conhecimentos básicos em **HTML e CSS**, utilizados para criar páginas web simples e compreender os fundamentos do desenvolvimento front-end.
+Tenho interesse em **programação, lógica de programação, desenvolvimento de sistemas e banco de dados**. Atualmente, venho desenvolvendo meus conhecimentos principalmente em **C# e Python**, além de estudar **SQL/MySQL** e conceitos de **Programação Orientada a Objetos (POO)**.
 
-Atualmente estou aprendendo **C# no COTEMIG**, desenvolvendo lógica de programação, algoritmos e conceitos iniciais de programação orientada a objetos.
+Durante minha formação, busco ir além da sala de aula por meio de cursos e atividades práticas. Em Python, venho desenvolvendo exercícios para aprimorar minha lógica de programação, enquanto no COTEMIG desenvolvo projetos e atividades utilizando C#, Banco de Dados.
 
-Busco evoluir continuamente na área de tecnologia, desenvolvendo projetos e ampliando meus conhecimentos em programação.
+Também possuo conhecimentos em **HTML5, CSS3 e Javascript**, utilizados em projetos de desenvolvimento web.
+
+Busco evoluir continuamente na área de tecnologia, transformando meus estudos em projetos práticos e adquirindo experiência profissional em desenvolvimento de sistemas.
 
 ---
 
