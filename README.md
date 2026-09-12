@@ -22,7 +22,7 @@ Busco evoluir continuamente na área de tecnologia, desenvolvendo projetos e amp
 ### Linguagens
 
 ![C#](https://img.shields.io/badge/.NET%20C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=3776AB)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Desenvolvimento Web
