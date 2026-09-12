@@ -48,7 +48,7 @@ Busco evoluir continuamente na área de tecnologia, transformando meus estudos e
 
 Projeto desenvolvido com **HTML e CSS** que organiza e apresenta os elementos da **Tabela Periódica** em uma interface simples e visual.
 
-###[Your Rytthm](https://github.com/RuhanAlves/Your-Rytthem)
+### [Your Rytthm](https://github.com/RuhanAlves/Your-Rytthem)
 
 Site de roupas inspiradas em artistas de música Indie e R&B, transmitindo os seus sentimentos as roupas.
 
