@@ -13,7 +13,7 @@ Tenho interesse em **programação, lógica de programação, desenvolvimento de
 
 Durante minha formação, busco ir além da sala de aula por meio de cursos e atividades práticas. Em Python, venho desenvolvendo exercícios para aprimorar minha lógica de programação, enquanto no COTEMIG desenvolvo projetos e atividades utilizando C#, Banco de Dados.
 
-Também possuo conhecimentos em **HTML5, CSS3 e Javascript**, utilizados em projetos de desenvolvimento web.
+Também possuo conhecimentos em **HTML5 e CSS3**, utilizados em projetos de desenvolvimento web.
 
 Busco evoluir continuamente na área de tecnologia, transformando meus estudos em projetos práticos e adquirindo experiência profissional em desenvolvimento de sistemas.
 
