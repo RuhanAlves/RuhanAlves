@@ -65,8 +65,13 @@ Repositório com meus estudos e exercícios práticos em Python, desenvolvidos c
 
 ## Certificações
 
-* Google Workspace for Education – Nível Básico
-* Google Workspace for Education – Nível Intermediário
+* CSS Essentials — Cisco Networking Academy / JS Institute — 2026
+* HTML Essentials — Cisco Networking Academy / JS Institute — 2026
+* Introduction to Modern AI — Cisco Networking Academy — 2026
+* Computer Hardware Basics — Cisco Networking Academy — 2026
+* Google Workspace for Education Fundamentals — Intermediário — 2026
+* Google Workspace for Education Fundamentals — Básico — 2026
+
 
 ---
 
