@@ -23,22 +23,19 @@ Busco evoluir continuamente na área de tecnologia, transformando meus estudos e
 
 ### Linguagens
 
-![C#](https://img.shields.io/badge/.NET%20C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=3776AB)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Linguagens](https://skillicons.dev/icons?i=cs,python)
 
 ### Desenvolvimento Web
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![Desenvolvimento Web](https://skillicons.dev/icons?i=html,css)
+
+### Banco de Dados
+
+![Banco de Dados](https://skillicons.dev/icons?i=mysql)
 
 ### Ferramentas
 
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)
+![Ferramentas](https://skillicons.dev/icons?i=pycharm,visualstudio,vscode,git,github)
 
 ---
 
