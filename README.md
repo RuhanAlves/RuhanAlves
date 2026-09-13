@@ -35,7 +35,7 @@ Busco evoluir continuamente na área de tecnologia, transformando meus estudos e
 
 ### Ferramentas
 
-![Ferramentas](https://skillicons.dev/icons?i=pycharm,visualstudio,vscode,git,github)
+![Ferramentas](https://skillicons.dev/icons?i=pycharm,visualstudio,vscode,github)
 
 ---
 
